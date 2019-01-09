@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="java">
+    <CLASSES />
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../craftinginterpreters/java" />
+      <root url="file://$PROJECT_DIR$/../craftinginterpreters/note/answers/chapter01_introduction/2" />
+      <root url="file://$PROJECT_DIR$/../craftinginterpreters/note/answers/chapter11_resolving/4" />
+    </SOURCES>
+  </library>
+</component>
